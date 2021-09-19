@@ -8,6 +8,5 @@ Phone Bigint not null,
 Addres varchar(200),
 Cuisine varchar(50),
 )
-Drop table RestoName;
 select *from RestoName;
 
