@@ -11,4 +11,3 @@ Cuisine varchar(50),
 Status varchar(20)
 )
 select *from resto;
-drop table resto;
